@@ -1,0 +1,19 @@
+.Favouritesbutton {
+    height: 15px;
+    font-size: 9px;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    position: absolute;
+    transition: all .2s ease-in-out;
+}
+
+.Favouritesbutton--hover {
+    height: 80px;
+    font-size: 9px;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    position: absolute;
+    transition: all .2s ease-in-out;
+}

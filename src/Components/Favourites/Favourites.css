@@ -1,0 +1,19 @@
+.Favourites {
+    position: absolute;
+    width: 80vw;
+    min-height: 100px;
+    height: auto;
+    top: 120px;
+    border: 1px solid black;
+    left: 50vw;
+    transform: translateX(-50%);
+    background-color: white;
+    z-index: 2;
+}
+
+.FavouritesItem {
+    display: flex;
+    border: 1px solid black;
+    flex-direction: row;
+    justify-content: flex-start;
+}
